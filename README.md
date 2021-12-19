@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Leo
+- 👀 I’m interested in FiveM Developing and Improving the FiveM Community as a whole!
+- 🌱 I’m currently learning Python and some stuff in linux!
+- 💞️ I’m looking to collaborate on anything FiveM Related
+- 📫 How to reach me email me @ leodevs@protonmail.com
